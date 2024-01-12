@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+		<style>
+		h1 {
+		font-family: Verdana, Geneva, sans-serif;
+		text-shadow: 3px 2px grey;
+		word-spacing: 10px;
+		text-align: center;
+		text-transform: uppercase;
+	}
+	p {
+		font-family: 'Macondo', cursive;
+		text-indent: 50px;
+		text-align: justify;
+	}
+	p.first {
+		font-family: "Courier New", Courier, monospace;
+		line-height: 1.8;
+		letter-spacing: 2px;
+		
+	}
+	p.second {
+		word-spacing: 10px;
+	}
+	</style>
+
+		
+		</style>
+		
+		<title>Example page - HTML5</title>
+	</head>
+<body>
+	<h1>Seamaster Automatic Chronograph Men&apos;s Watch</h1>
+
+	<p>Stainless steel case with a stainless steel bracelet. Uni-directional rotating silver-tone stainless steel bezel with a blackceramic top ring. Black dial with luminous skeleton hands and dot hour markers. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands and markers. Date display at the 6 o'clock position. Chronograph - three sub-dials displaying: 60 second, 30 minute and 12 hour. Omega calibre 3330 automatic movement with a 52-hour power reserve. Scratch resistant sapphire crystal. Screw down crown. Solid case back. Case size: 44.5 mm. Case thickness: 13 mm. Round case shape. Band width: 22.9 mm. Band length: 9 inches. Deployment clasp. Water resistant at 300 meters / 1000 feet. Functions: chronograph, date, hour, minute, second, chronometer. Additional Info: helium escape valve. Dress watch style. Watch label: Swiss Made. Item Variations: 212 30 44 50 01 001, 212-30-44-50-01-001, 212/30/44/50/01/001, 21230445001001. Omega Seamaster Automatic Chronograph Men's Watch 21230445001001.</p>
+
+    </video>
+	</body>
+</html>
